@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h2 align="left">Hello there, Adventurer 👋!</h2>
+=======
+<h2 align="left">Hi 👋!</h2>
+>>>>>>> 4538b132581dce1366858ff7741bc5d8c27a917d
 
 ###
 
